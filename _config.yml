@@ -22,7 +22,7 @@ title: Aniket Kulkarni
 email: aniket.cfd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my site. This site gives basic information about my work and passion.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/about_me" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aniket-cfd
 
