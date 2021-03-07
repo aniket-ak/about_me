@@ -8,6 +8,9 @@ Hello!!
 
 ![title](./DSC_0011.jpg)
 
+
+![image](https://drive.google.com/file/d/1vX2-Snkd5vG-BlibLSdQpqh_oJHWk_S-/view?usp=sharing)
+
 My name is Aniket Abhay Kulkarni and welcome to my site. This site contains information about my work. If you want to collaborate on any project you can reach out to me.
 
 I use data driven techniques with simulations to solve multi-scale, multi-physics problems. I am a subject matter expert for Reduced Order Modeling (ROM), Surrogate modeling and System Modeling.
