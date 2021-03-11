@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello!!
 
-<img src="/assets/DSC_0011.jpg" width="220" align="right" hspace="25"/>
+<img src="{{site.baseurl}}/assets/DSC_0011.jpg" width="220" align="right" hspace="25"/>
 
 My name is Aniket Abhay Kulkarni and welcome to my site. This site contains information about my work. If you want to collaborate on any project you can reach out to me.
 
