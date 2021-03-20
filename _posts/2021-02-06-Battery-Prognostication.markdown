@@ -6,14 +6,13 @@ categories: jekyll update
 permalink: "battery"
 ---
 
-GPR
-===========
+# GPR
 
+## Overview
 Battery SOH forecasting using GPR. Reference from this [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqmJ_855bvAhUVgOYKHR4lByAQFjAAegQIBBAD&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0378775317306250&usg=AOvVaw1P31v8I4zlOJacXNwqw_xP).
 
 
-Description
-===========
+## Description
 
 Automotive industry has undergone significant changes with innovations like electrification and Autonomous Driving (ADAS). Electrificaiton, in general talks about many aspects but electrifying powertrain is the main focus area. Electrification is supposed to reduce the carbon footprint of vehicles, or at least isolate them away from cities where the major population resides around the world. According to this report from [EV Volumes](https://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/) database, the YoY growth of EV sales showed average monotinic increasing trends despite the COVID situation economically.
 
@@ -26,7 +25,7 @@ In this [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&c
 
 This 
 
-# Table of content
+## Table of content
 
 > 1. Basic Single Output GP Results
 >> 1.1. Kernel Function Selection
