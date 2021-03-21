@@ -8,9 +8,12 @@ layout: home
 
 <img src="{{site.baseurl}}/assets/DSC_0011.jpg" width="220" align="right" hspace="25"/>
 
-I am Aniket, interested in machine learning applications in solving engineering problems. I have worked on projects 
-like battery prognostication, electronics thermal solution etc. and some of these are shown on this site.
+Hi and welcome to my site. 
 
-I am open to opportunities to collaborate in the field of machine learning, data science projects. 
+I am Aniket, currently working as Senior Applications Engineer in Ansys Pune, 
+India. I have worked on various projects related to machine learning and engineering simulations. You can find out 
+more about these projects in this site. 
 
----
+Do drop a message on email/LinkedIn if you want to get in touch.
+
+Thank you.
