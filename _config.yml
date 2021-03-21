@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Aniket Kulkarni
-email: aniket.cfd@gmail.com
+#email: aniket.cfd@gmail.com
+linkedin_username: aniketak
 description: >- # this means to ignore newlines until "baseurl:"
   .
 baseurl: "/blog" # the subpath of your site, e.g. /blog
@@ -30,9 +31,6 @@ github_username:  aniket-ak
 theme: minima
 plugins:
   - jekyll-feed
-
-footer_links:
-  -linkedin_username: user-name-256ra147
 
 defaults:
   -
