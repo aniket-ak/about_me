@@ -8,7 +8,7 @@ layout: home
 
 <img src="{{site.baseurl}}/assets/DSC_0011.jpg" width="220" align="right" hspace="25"/>
 
-Hi and welcome to my site. 
+Hello! Welcome to my site. 
 
 I am Aniket, currently working as Senior Applications Engineer in Ansys Pune, 
 India. I have worked on various projects related to machine learning and engineering simulations. You can find out 
