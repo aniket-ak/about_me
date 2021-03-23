@@ -4,14 +4,40 @@ title: About
 permalink: /about/
 ---
 
-Hello!!
-
 <img src="{{site.baseurl}}/assets/DSC_0011.jpg" width="220" align="right" hspace="25"/>
 
-My name is Aniket and welcome to my site. This site contains information about my projects . If you want to 
-collaborate on 
-any project you can reach out to me.
+Hello! Here is a brief introduction about me.
 
-I use data driven techniques with simulations to solve multi-scale, multi-physics problems. I am a subject matter expert for Reduced Order Modeling (ROM), Surrogate modeling and System Modeling.
+### Work Experience
 
-I interface with electronics customers in Asia Pacific Region and help solve challenging problems in the domain of Electronics Reliability.
+I am currently working as Senior Applications Engineer at Ansys Inc., Pune, India. I use Data driven techniques with 
+simulations to solve multi-scale, multi-physics problems. Subject matter expert for Reduced Order Modeling, 
+Surrogate modeling and System Modeling.
+
+Some of the projects I have worked on:
+1. Prognostication of Li-ion Battery using physics informed data driven lifing models.
+2. Use Data driven approach in simulations to make them faster and better.
+3. State space based Dynamic Thermal Management (DTM) end-to-end workflow for thermal characterization of 
+   electronics systems. LTI, SVD, PCA, Krylov and response surface generation for surrogate models.
+
+
+### Patents
+
+1. Multi-chip module package compact thermal models ([us 10409358](https://patents.justia.com/patent/10409358))
+2. Tile Level Reduced Order Model (ROM) for Smartphone Dynamic Thermal Management (DTM) using Machine learning (Submitted)
+3. Dynamic Thermal Management (DTM) using Krylov Reduced Order Model (ROM) (Submitted)
+
+### Conference Papers
+
+* July 2017 S. Krishnaswamy, P. Jain, M. Saeidi, Aniket. Kulkarni, A. Adhiya and J. Harvest,
+"Fast and accurate thermal analysis of smartphone with dynamic power management
+using reduced order modeling," 2017 16th IEEE Intersociety Conference on Thermal
+and Thermomechanical Phenomena in Electronic Systems (ITherm), Orlando, FL,
+2017, pp. 276-281.([link](https://ieeexplore.ieee.org/document/7992482))
+  
+* Dec 2015 V. K. Yaddanapudi, Aniket. Kulkarni, A. Adhiya, M. Nagulapally and D. Tan,
+"DELPHI style extraction and validation of compact model for a multichip module
+package," 2015 IEEE 17th Electronics Packaging and Technology Conference (EPTC),
+Singapore, 2015, pp. 1-6.([link](https://ieeexplore.ieee.org/document/7412368))
+
+Do drop a message on email/LinkedIn if you want to get in touch.
