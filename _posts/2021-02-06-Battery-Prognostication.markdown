@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gaussian Process Regression for forecasting battery State of Health (SoH)"
+title:  "Gaussian Process Regression for forecasting battery State of Health (SoH) - Work In Progress"
 date:   2021-03-11 12:27:32 +0530
 categories: jekyll update
 permalink: "battery"
