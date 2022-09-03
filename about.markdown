@@ -10,9 +10,7 @@ Hello! Here is a brief introduction about me.
 
 ### Work Experience
 
-I am currently working as Senior Applications Engineer at Ansys Inc., Pune, India. I use Data driven techniques with 
-simulations to solve multi-scale, multi-physics problems. Subject matter expert for Reduced Order Modeling, 
-Surrogate modeling and System Modeling.
+I am currently working as Principal Consultant at Aligned Automation, Pune, India.
 
 Some of the projects I have worked on:
 1. Prognostication of Li-ion Battery using physics informed data driven lifing models.
